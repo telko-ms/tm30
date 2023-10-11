@@ -1,0 +1,2 @@
+#this is ignore runtime files you might not like to keep in pwd
+*.class
